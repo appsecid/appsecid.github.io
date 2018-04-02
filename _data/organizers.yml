@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "OWASP", description: "OWASP Indonesia Chapter", link: "http://owasp.or.id", imageUrl: "logos.svg"}
 - 
   group: "Co-organizers"
   elements: 
