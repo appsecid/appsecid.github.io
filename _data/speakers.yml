@@ -24,21 +24,6 @@
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
-- 
-  id: 6
   name: "Sven"
   surname: "Schleier"
   company: "OWASP"
@@ -54,7 +39,7 @@ At the moment Sven is focusing on the OWASP Mobile Testing Guide (https://github
     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
-  id: 7
+  id: 6
   name: "Suman"
   surname: "Sourav"
   company: "Vantage Point Indonesia"
