@@ -5,6 +5,3 @@
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "GDG Lviv", description: "", link: "http://kyiv.gdg.org.ua", imageUrl: ""}
-    - {name: "GDG Cherkassy", description: "", link: "http://cherkassy.gdg.org.ua", imageUrl: ""}
-    - {name: "GDG Dnipropetrovsk", description: "", link: "http://dnipro.gdg.org.ua", imageUrl: ""}
