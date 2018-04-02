@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Sponsor"}
- - {permalink: "/hackathon/", text: "About"}
+ - {permalink: "/hackathon/", text: ""}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
