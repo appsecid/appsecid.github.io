@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Sponsor"}
  - {permalink: "/hackathon/", text: ""}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
