@@ -39,12 +39,14 @@
     - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Sven"
+  surname: "Schleier"
+  company: "OWASP"
+  title: "OWASP Project Lead For OWASP Mobile Application Security Verification Standard"
+  bio: " Sven is a Senior Security Consultant with Vantage Point Security and has over 6 years of hands-on experience in web and mobile application penetration testing, network penetration testing and source code review. He has published an article on HTML5 security, several security advisories and a white paper about the HTTP Strict Transport Security Header.
+
+At the moment Sven is focusing on the OWASP Mobile Testing Guide (https://github.com/OWASP/owasp-mstg), by being one of the project leaders and top contributors and is the project leader of the OWASP Mobile Hacking Playground (https://github.com/OWASP/OMTG-Hacking-Playground). He is also part of the OWASP Mobile Application Security Verification Standard (https://github.com/OWASP/owasp-masvs."
+  thumbnailUrl: Sven.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
