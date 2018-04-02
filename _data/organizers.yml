@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "OWASP", description: "OWASP Indonesia Chapter", link: "http://owasp.or.id", imageUrl: "logos.svg"}
+    - {name: "OWASP", description: "OWASP Indonesia Chapter", link: "http://owasp.or.id", imageUrl: "owasp.svg"}
 - 
   group: "Co-organizers"
   elements: 
