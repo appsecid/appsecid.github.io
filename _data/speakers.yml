@@ -13,7 +13,7 @@
   id: 4
   name: "Dedy"
   surname: "Hariyadi"
-  company: "Lemberg Solutions Limited"
+  company: "UGM"
   title: "Android Developer"
   bio: '<p>Researchers who are members of the Indonesia Digital Forensics Community aka FORKID. Obtained a master’s degree in Digital Forensics from the Universitas Islam Indonesia. Currently focusing more on the field of Mobile Forensics Research, one community shared work is a BBM forensic application called BBMPork..</p>'
   thumbnailUrl: Dedi.jpg
@@ -28,9 +28,7 @@
   surname: "Schleier"
   company: "OWASP"
   title: "OWASP Project Lead For OWASP Mobile Application Security Verification Standard"
-  bio: " Sven is a Senior Security Consultant with Vantage Point Security and has over 6 years of hands-on experience in web and mobile application penetration testing, network penetration testing and source code review. He has published an article on HTML5 security, several security advisories and a white paper about the HTTP Strict Transport Security Header.
-
-At the moment Sven is focusing on the OWASP Mobile Testing Guide (https://github.com/OWASP/owasp-mstg), by being one of the project leaders and top contributors and is the project leader of the OWASP Mobile Hacking Playground (https://github.com/OWASP/OMTG-Hacking-Playground). He is also part of the OWASP Mobile Application Security Verification Standard (https://github.com/OWASP/owasp-masvs."
+  bio: " Sven is a Senior Security Consultant with Vantage Point Security and has over 6 years of hands-on experience in web and mobile application penetration testing, network penetration testing and source code review. He has published an article on HTML5 security, several security advisories and a white paper about the HTTP Strict Transport Security Header.At the moment Sven is focusing on the OWASP Mobile Testing Guide (https://github.com/OWASP/owasp-mstg), by being one of the project leaders and top contributors and is the project leader of the OWASP Mobile Hacking Playground (https://github.com/OWASP/OMTG-Hacking-Playground). He is also part of the OWASP Mobile Application Security Verification Standard (https://github.com/OWASP/owasp-masvs."
   thumbnailUrl: Sven.jpg
   rockstar: true
   ribbon:
