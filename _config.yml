@@ -170,7 +170,7 @@ ticketsOffers:
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
   soldOut: True
-  soldOutText: "Will Open"
+  soldOutText: "As soon"
 
 # Footer
 socialLinks:
@@ -182,12 +182,12 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://Appsec2018.owasp.id", text: "OWASP Appsec Conference Indonesia 2018"}
+   - {link: "https://OWASP.org", text: "OWASP Foundation"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto: appsec2018@owasp.org", text: "OWASP Committe}
  -
   title: "FAQ"
   links:
@@ -215,7 +215,7 @@ findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
 logisticsMapCenterCoordinates: "49.056728, 3.117289"
 logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
-logisticsMapAutoDirections: false
+logisticsMapAutoDirections: True
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
