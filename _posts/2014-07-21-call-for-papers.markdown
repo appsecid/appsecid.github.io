@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Call for Papers"
-date:   
+title:  "Call for Papers" 
+date:   2018-05-01 09:00:00
 isStaticPost: false
 ---
 CALL FOR PAPER as soon will open. 
