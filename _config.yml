@@ -24,9 +24,9 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "OWASP"
 organizerAlternateName: "OWASP Indonesia Chapter"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "ade.putra@owasp.org"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http:///"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "OWASP Appsec <typeout> 2018"
 eventDate: "Hold The Date"
-typeoutTextValues: '"", "Season","Indonesia", "Surabaya"'
+typeoutTextValues: '"", "Season","Indonesia"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "", text: "Become a speaker"}
@@ -92,9 +92,9 @@ rockstarSpeakersButtonText: "See all speakers"
 locationBlockTitle: "Location"
 eventLocationName: "Conference Hall"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "Pens"
-eventAddressLocality: "Surabaya"
-eventAddressLocalityRegion: "Surabaya"
+eventStreetAddress: ""
+eventAddressLocality: ""
+eventAddressLocalityRegion: ""
 eventPostalCode: "79000"
 eventAddressCountry: "Indonesia"
 eventStartTime: "2018-11-01T10:00"
