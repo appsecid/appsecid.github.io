@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "OWASP APPSEC Conference 2018"
+title: "OWASP AppSec Conference 2018"
 email: "appsec2018@owasp.org"
 description: "OWASP Appsec is One-day conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications"
 baseurl: ""
@@ -142,7 +142,7 @@ ticketsOffers:
   ribbon: "-5%"
   buyButtonLink: ""
   buyButtonText: "As Soon"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: [""]
   validFrom: "2018-08-25T10:00"
   validThrough: "2018-09-30T23:59"
  -
@@ -154,7 +154,7 @@ ticketsOffers:
   featured: true
   buyButtonLink: ""
   buyButtonText: "As Soon"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: [""]
   validFrom: "2018-10-01T00:00"
   validThrough: "2018-10-23T23:59"
   disabled: true
@@ -166,7 +166,7 @@ ticketsOffers:
   buyButtonLink: ""
   buyButtonText: "As Soon"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: [""]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
   soldOut: True
