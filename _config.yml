@@ -44,9 +44,9 @@ c4sponsorsUrl: "/assets/"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Submit"}
- - {permalink: "", text: ""}
+ - {permalink: "", text: "Register"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "", text: ""}
+ - {permalink: "", text: "Venue"}
  - {permalink: "", text: ""}
  - {permalink: "/hackathon/", text: ""}
 bottomNavigationLinks:
