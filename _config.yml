@@ -77,7 +77,7 @@ statisticBlock:
  - {count: "200", specialCharacter: "+", info: "OWASP ", detail: "chapters around the world"}
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "20", specialCharacter: "+", info: "Speakers", detail: "from everywhere"}
- - {count: "5", specialCharacter: "", info: "Trainers", detail: "from Indonesia and beyond"}
+ - {count: "500", specialCharacter: "", info: "Tickets", detail: "Available this year"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
