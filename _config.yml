@@ -144,7 +144,7 @@ ticketsOffers:
   buyButtonText: "As Soon"
   ticketContentList: [""]
   validFrom: "2018-08-25T10:00"
-  validThrough: "2018-09-30T23:59"
+  validThrough: "2017-09-30T23:59"
  -
   name: "Last Chance"
   price: ""
@@ -155,8 +155,8 @@ ticketsOffers:
   buyButtonLink: ""
   buyButtonText: "As Soon"
   ticketContentList: [""]
-  validFrom: "2018-07-01T00:00"
-  validThrough: "2018-07-23T23:59"
+  validFrom: "2018-09-01T00:00"
+  validThrough: "2018-09-23T23:59"
   disabled: true
  -
   name: "Student"
