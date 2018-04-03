@@ -8,7 +8,7 @@
   thumbnailUrl: Girin.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "google-plus", link: ""}
 - 
   id: 4
   name: "Dedy"
@@ -19,9 +19,9 @@
   thumbnailUrl: Dedi.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
 - 
   id: 5
   name: "Sven"
@@ -32,10 +32,10 @@
   thumbnailUrl: Sven.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "OWASP", title: "OWASP", url: ""}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
 - 
   id: 6
   name: "Suman"
@@ -46,7 +46,7 @@
   thumbnailUrl: 300px-Suman.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "Vantage Point Indonesia", title: "", url: ""}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: ""}
+    - {name: "site", link: ""}
