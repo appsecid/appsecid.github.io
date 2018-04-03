@@ -75,9 +75,9 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "OWASP ", detail: "chapters around the world"}
- - {count: "500", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "20", specialCharacter: "+", info: "Speakers", detail: "from everywhere"}
- - {count: "5", specialCharacter: "", info: "Trainers", detail: "from Indonesia and beyond"}
+
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -94,7 +94,7 @@ eventLocationName: "Conference Hall"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: ""
 eventAddressLocality: ""
-eventAddressLocalityRegion: ""
+eventAddressLocalityRegion: ""500
 eventPostalCode: "79000"
 eventAddressCountry: "Indonesia"
 eventStartTime: "2018-11-01T08:00"
