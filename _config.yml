@@ -44,10 +44,10 @@ c4sponsorsUrl: "/assets/"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Submit"}
- - {permalink: "", text: "Schedule"}
+ - {permalink: "", text: ""}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "", text: "Team"}
- - {permalink: "", text: "Sponsor"}
+ - {permalink: "", text: ""}
+ - {permalink: "", text: ""}
  - {permalink: "/hackathon/", text: ""}
 bottomNavigationLinks:
  - {link: "", text: "Become a speaker"}
