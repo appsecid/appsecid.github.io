@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "OWASP AppSec Conference 2018"
 email: "appsec2018@owasp.org"
-description: "OWASP Appsec is One-day conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications"
+description: "OWASP Appsec is One-day Conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications"
 baseurl: ""
 url: "https://appsecid.github.io"
 permalink: "/blog/:title"
@@ -57,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "OWASP Appsec <typeout> 2018"
-eventDate: "Hold The Date"
+eventDate: "1-3 November, 2018"
 typeoutTextValues: '"", "Season","Indonesia"'
 typeoutFallback: "Season"
 heroButtons:
