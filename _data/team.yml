@@ -1,47 +1,47 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Ade"
+  surname: "Yoseman"
+  title: "Conference Chair"
+  thumbnailUrl: adeyoseman.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "OWASP", title: "OWASP Indonesia Chapter"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: "https://twitter.com/johleedik"}
+    - {name: "github", link: "https://github.com/adeyosemanputra"}
+    - {name: "site", link: ""}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
+  name: "Ali"
+  surname: "kaharu"
   title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  thumbnailUrl: 
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "", title: ""}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: ""}
+    - {name: "github", link: ""}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
+  name: "Achmad"
+  surname: "Syafaat"
   title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: 
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "", title: ""}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "site", link: ""}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
+  name: "Laura"
+  surname: "Grau"
+  title: "Event Manager"
   thumbnailUrl: DmytroDanylyk.jpg
   subTeam: true
   social: 
@@ -50,11 +50,21 @@
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Kelly"
+  surname: "Santalucia"
+  title: "Membership and Business Liaison"
+  thumbnailUrl: staff-kelly_santalucia.png
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: ""}
+    - {name: "site", link: ""}
+    
+    id: 8
+  name: "Dawn"
+  surname: "Aitken"
+  title: "Program Assistant"
+  thumbnailUrl: 
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "site", link: ""}
