@@ -17,7 +17,7 @@
   name: "Ali"
   surname: "kaharu"
   title: "Designer and Web Developer"
-  thumbnailUrl: 
+  thumbnailUrl: owasp_logo.png
   team: true
   ribbon: 
     - {abbr: "", title: ""}
@@ -49,7 +49,7 @@
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
-  id: 7
+  id: 5
   name: "Kelly"
   surname: "Santalucia"
   title: "Membership and Business Liaison"
@@ -63,7 +63,7 @@
   name: "Dawn"
   surname: "Aitken"
   title: "Program Assistant"
-  thumbnailUrl: 
+  thumbnailUrl: 448px-Dawn_picture.jpg
   subTeam: true
   social: 
     - {name: "google-plus", link: ""}
