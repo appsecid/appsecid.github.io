@@ -29,7 +29,7 @@
   name: "Achmad"
   surname: "Syafaat"
   title: "Sponsors and Speakers Manager"
-  thumbnailUrl: 
+  thumbnailUrl: owasp_logo.png
   team: true
   ribbon: 
     - {abbr: "", title: ""}
