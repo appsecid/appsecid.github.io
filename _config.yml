@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "OWASP AppSec Conference 2018"
+title: "Indonesia AppSec & Cyber Security Conference 2018"
 email: "appsec2018@owasp.org"
-description: "OWASP Appsec is One-day Conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications"
+description: "Indonesia AppSec & Cyber Security Conference is Our Conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications"
 baseurl: ""
 url: "https://appsecid.github.io"
 permalink: "/blog/:title"
@@ -56,16 +56,16 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "OWASP Appsec <typeout> 2018"
+heroTitle: "Indonesia Application Security <typeout> 2018"
 eventDate: "1-3 November, 2018"
-typeoutTextValues: '"", "Season","Indonesia"'
+typeoutTextValues: '"", "Cyber Security", Conference"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About OWASP Appsec"
+aboutTitle: "About Appsec"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "One-day conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
