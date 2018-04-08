@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Indonesia AppSec & Cyber Security Conference 2018"
+title: "International AppSec & Cyber Security Conference 2018"
 email: "appsec2018@owasp.org"
-description: "Indonesia AppSec & Cyber Security Conference is Our Conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications"
+description: "International AppSec & Cyber Security Conference is Our Conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications"
 baseurl: ""
 url: "https://appsecid.github.io"
 permalink: "/blog/:title"
@@ -56,9 +56,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Indonesia Application Security <typeout> 2018"
+heroTitle: "International Application Security <typeout> 2018"
 eventDate: "1-3 November, 2018"
-typeoutTextValues: '"", "Cyber Security", Conference"'
+typeoutTextValues: '"", "Cyber Security", Conference", Indonesia"'
 typeoutFallback: "Conference"
 heroButtons:
  - {link: "", text: "Become a sponsor"}
