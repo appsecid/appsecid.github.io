@@ -59,9 +59,9 @@ heroImage: "hero.jpg"
 heroTitle: "Indonesia Application Security <typeout> 2018"
 eventDate: "1-3 November, 2018"
 typeoutTextValues: '"", "Cyber Security", Conference"'
-typeoutFallback: "Season"
+typeoutFallback: "Conference"
 heroButtons:
- - {link: "", text: "Become a speaker"}
+ - {link: "", text: "Become a sponsor"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
