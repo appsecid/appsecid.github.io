@@ -116,7 +116,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Follow Us @OWASPJakarta"
-twitterHashTag : "OWASPAppsecID2018 "
+twitterHashTag : "AppsecID2018 "
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -183,11 +183,11 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://Appsec2018.owasp.id", text: "OWASP Appsec Conference Indonesia 2018"}
-   - {link: "https://OWASP.org", text: "OWASP Foundation"}
+   - {link: "https:", text: "Indonesia AppSec & Cyber Security Conference 2018"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:appsec2018@owasp.org", text: "OWASP Appsec Indonesia Committee"}
+   - {link: "mailto:ade.putra@owasp.org", text: "Appsec Indonesia Committee"}
  -
   title: "FAQ"
   links:
