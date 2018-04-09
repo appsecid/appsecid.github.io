@@ -65,7 +65,7 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About Appsec"
+aboutTitle: "About Appsec Indonesia Conference 2018"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "One-day conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
