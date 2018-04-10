@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "OWASP AppSec Indonesia 2018"
-email: "ade.owasp@owasp.org"
-description: "International AppSec & Cyber Security Conference is Our Conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications"
+title: "OWASP AppSec Conference 2018"
+email: "appsec2018@owasp.org"
+description: "OWASP Appsec is One-day Conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications"
 baseurl: ""
 url: "https://appsecid.github.io"
 permalink: "/blog/:title"
@@ -56,16 +56,16 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "OWASP AppSec <typeout> 2018"
+heroTitle: "OWASP Appsec <typeout> 2018"
 eventDate: "1-3 November, 2018"
-typeoutTextValues: '"", "Cyber Security", Conference", Indonesia"'
-typeoutFallback: "Conference"
+typeoutTextValues: '"", "Season","Indonesia"'
+typeoutFallback: "Season"
 heroButtons:
- - {link: "", text: "Become a sponsor"}
+ - {link: "", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About Appsec Indonesia Conference 2018"
+aboutTitle: "About OWASP Appsec"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "One-day conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -116,7 +116,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Follow Us @OWASPJakarta"
-twitterHashTag : "AppsecID2018 "
+twitterHashTag : "OWASPAppsecID2018 "
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -183,11 +183,11 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://Appsec2018.owasp.id", text: "OWASP Appsec Conference Indonesia 2018"}
-   - {link: "https:", text: "Indonesia AppSec & Cyber Security Conference 2018"}
+   - {link: "https://OWASP.org", text: "OWASP Foundation"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:ade.putra@owasp.org", text: "Appsec Indonesia Committee"}
+   - {link: "mailto:appsec2018@owasp.org", text: "OWASP Appsec Indonesia Committee"}
  -
   title: "FAQ"
   links:
