@@ -94,10 +94,10 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Binus University Anggrek"
+eventLocationName: ""
 eventLocationLink: "https://maps.googleapis.com/maps/api/js?key=AIzaSyBIehfgdYIdwupe2Dr9yI7jkydwIgjfNWI&callback=initMap"
-eventStreetAddress: "Jl. Kb. Jeruk Raya, RT.1/RW.9, Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530"
-eventAddressLocality: "Jakarta Barat"
+eventStreetAddress: ""
+eventAddressLocality: ""
 eventAddressLocalityRegion: "Jakarta"
 eventPostalCode: "11530"
 eventAddressCountry: "Indonesia"
