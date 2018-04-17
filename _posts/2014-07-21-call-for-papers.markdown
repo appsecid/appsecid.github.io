@@ -14,4 +14,4 @@ __Please note:__ There is no guarantee that a submission will be put onto the co
 .<br/>
 
 #### Any questions? 
-Email organizers at [appsec2018@owasp.org](mailto:appsec2018@owasp.org)
+Email organizers at [indonesia2018@owasp.org](mailto:appsec2018@owasp.org)
