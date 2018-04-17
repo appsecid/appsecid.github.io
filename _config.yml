@@ -187,7 +187,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:appsec2018@owasp.org", text: "OWASP Appsec Indonesia Committee"}
+   - {link: "mailto:indonesia2018@owasp.org", text: "OWASP Appsec Indonesia Committee"}
  -
   title: "FAQ"
   links:
