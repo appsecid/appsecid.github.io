@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "OWASP AppSec Conference 2018"
-email: "appsec2018@owasp.or.id"
+email: "indonesia2018@owasp.org"
 description: "OWASP Appsec is One-day Conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications"
 baseurl: ""
 url: "https://appsecid.github.io"
