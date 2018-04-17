@@ -102,7 +102,7 @@ eventDoorTime: "09:00"
 eventEndTime: "2018-11-03T19:00"
 eventPlaceCoordinates: "-6.200266, 106.780560"
 mapCenterCoordinates: "-6.201772, 106.781584"
-mapMobileCenterCoordinates: "-6.201772, 106.781584"
+mapMobileCenterCoordinates: "-6.201132, 106.781541"
 
 # Venue Block
 venueBlockTitle: "Venue"
