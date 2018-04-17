@@ -3,6 +3,10 @@ gems:
 - jekyll-sitemap
 safe: false
 
+maps:
+    google:
+      api_key: <AIzaSyBIehfgdYIdwupe2Dr9yI7jkydwIgjfNWI>
+
 # Build Settings
 markdown: kramdown
 permalink: pretty
