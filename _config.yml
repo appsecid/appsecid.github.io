@@ -91,7 +91,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Conference Hall"
-eventLocationLink: ""
+eventLocationLink: "https://maps.googleapis.com/maps/api/js?key=AIzaSyBIehfgdYIdwupe2Dr9yI7jkydwIgjfNWI&callback=initMap"
 eventStreetAddress: "Jl. Kebon Jeruk Raya No. 27 Kebon Jeruk Jakarta Barat"
 eventAddressLocality: "Jakarta Barat"
 eventAddressLocalityRegion: "Jakarta"
