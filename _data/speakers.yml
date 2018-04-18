@@ -1,41 +1,15 @@
 - 
   id: 3
-  name: "Girindro Pringgo"
-  surname: "Digdo"
-  company: "CYBERQUOTE PTE LTD"
-  title: "Security Consultant"
-  bio: "Girindro Pringgo Digdo Is a person interested in security information. He did some research And help Institution / private company and government In conducting the assessment, Write, and give Recommendations on findings-Information security findings.."
-  thumbnailUrl: Girin.jpg
+  name: "Tanya Janca"
+  surname: "Tanya"
+  company: "Microsoft"
+  title: "Senior Cloud Advocate"
+  bio: "Tanya Janca is a senior cloud advocate for Microsoft, specializing in application security; evangelizing software security and advocating for developers through public speaking, her open source project OWASP DevSlop, and various forms of teaching via workshops, blogs and community events.  As an ethical hacker, OWASP Project and Chapter Leader, software developer, effective altruist and professional computer geek of 20+ years, she is a person who is truly fascinated by the ‘science’ of computer science."
+  thumbnailUrl: tanya-janca.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: ""}
-- 
-  id: 4
-  name: "Dedy"
-  surname: "Hariyadi"
-  company: "Gadjah Mada University"
-  title: "Researchers"
-  bio: '<p>Researchers who are members of the Indonesia Digital Forensics Community aka FORKID. Obtained a master’s degree in Digital Forensics from the Universitas Islam Indonesia. Currently focusing more on the field of Mobile Forensics Research, one community shared work is a BBM forensic application called BBMPork..</p>'
-  thumbnailUrl: Dedi.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-- 
-  id: 5
-  name: "Sven"
-  surname: "Schleier"
-  company: "OWASP"
-  title: "OWASP Project Lead For OWASP Mobile Application Security Verification Standard"
-  bio: " Sven is a Senior Security Consultant with Vantage Point Security and has over 6 years of hands-on experience in web and mobile application penetration testing, network penetration testing and source code review. He has published an article on HTML5 security, several security advisories and a white paper about the HTTP Strict Transport Security Header.At the moment Sven is focusing on the OWASP Mobile Testing Guide (https://github.com/OWASP/owasp-mstg), by being one of the project leaders and top contributors and is the project leader of the OWASP Mobile Hacking Playground (https://github.com/OWASP/OMTG-Hacking-Playground). He is also part of the OWASP Mobile Application Security Verification Standard (https://github.com/OWASP/owasp-masvs."
-  thumbnailUrl: Sven.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "OWASP", title: "OWASP", url: ""}
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
+    - {name: "google-plus", link: "https://developer.microsoft.com/en-us/advocates/tanya-janca"}
+
 - 
   id: 6
   name: "Suman"
@@ -44,7 +18,7 @@
   title: "Director"
   bio: "Suman has more than a decade experience in designing secure-SDLC programs and is passionate about integrating security into the development lifecycle. ."
   thumbnailUrl: 300px-Suman.jpg
-  rockstar: true
+  rockstar: no
   ribbon:
     - {abbr: "Vantage Point Indonesia", title: "", url: ""}
   social: 
