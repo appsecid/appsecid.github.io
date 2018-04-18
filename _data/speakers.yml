@@ -3,6 +3,7 @@
   name: "Tanya"
   surname: "Janca"
   company: "Microsoft"
+   company: "Keynote Speaker"
   title: "Senior Cloud Advocate"
   bio: "Tanya Janca is a senior cloud advocate for Microsoft, specializing in application security; evangelizing software security and advocating for developers through public speaking, her open source project OWASP DevSlop, and various forms of teaching via workshops, blogs and community events.  As an ethical hacker, OWASP Project and Chapter Leader, software developer, effective altruist and professional computer geek of 20+ years, she is a person who is truly fascinated by the ‘science’ of computer science."
   thumbnailUrl: tanya-janca.jpg
@@ -11,6 +12,20 @@
     - {name: "site", link: "https://developer.microsoft.com/en-us/advocates/tanya-janca"}
 
 - 
+id: 4
+  name: "Sven"
+  surname: "Schleier"
+  company: "OWASP"
+  title: " OWASP Project Leader For Mobile Security"
+  bio: '<p>Sven is a Senior Security Consultant with Vantage Point Security and has over 6 years of hands-on experience in web and mobile application penetration testing, network penetration testing and source code review. He has published an article on HTML5 security, several security advisories and a white paper about the HTTP Strict Transport Security Header.
+At the moment Sven is focusing on the OWASP Mobile Testing Guide (https://github.com/OWASP/owasp-mstg), by being one of the project leaders and top contributors and is the project leader of the OWASP Mobile Hacking Playground (https://github.com/OWASP/OMTG-Hacking-Playground). He is also part of the OWASP Mobile Application Security Verification Standard (https://github.com/OWASP/owasp-masvs).</p>'
+  thumbnailUrl: Sven.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- {name: "github", link: ""}
+
   id: 6
   name: "Suman"
   surname: "Sourav"
@@ -18,9 +33,28 @@
   title: "Director"
   bio: "Suman has more than a decade experience in designing secure-SDLC programs and is passionate about integrating security into the development lifecycle. ."
   thumbnailUrl: 300px-Suman.jpg
-  rockstar: no
+  rockstar: true
   ribbon:
     - {abbr: "Vantage Point Indonesia", title: "", url: ""}
   social: 
     - {name: "google-plus", link: ""}
     - {name: "site", link: ""}
+
+  - 
+  id: 7
+  name: "Phuong "
+  surname: "Nam Tran"
+  company: "Viet Nam Computer Emergency Responses Team (VNCERT)"
+  title: "Manager of Cybersecurity Incidents Coordination and Response Dept, Danang Branch"
+  bio: "9 years working as a security professional of Viet Nam computer emergency response team - Ministry of Information and Communications.
+•	9 years experience of penetration testing for Viet Nam government systems.
+•	9 years of Incident handling: support for government agencies and large enterprises in Viet Nam to handle issues of information security.
+•	More than 8 years training about information security for universities, government departments and large enterprises across the country (Government Cipher Committee, Department of Information Security, North  Power Corporation,… ). 
+•	Conduct research about some open sources projects in information security such as: auto malware analysis system, honey pot system, network monitoring system."
+  thumbnailUrl: phuong.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+  social: 
+    - {name: "google-plus", link: ""}
+- {name: "site", link: ""}
