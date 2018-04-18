@@ -9,8 +9,8 @@
   rockstar: true
   social: 
     - {name: "site", link: "https://developer.microsoft.com/en-us/advocates/tanya-janca"}
+-
 
-- 
 id: 4
   name: "Sven"
   surname: "Schleier"
@@ -24,7 +24,7 @@ At the moment Sven is focusing on the OWASP Mobile Testing Guide (https://github
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
 - {name: "github", link: ""}
-
+-
   id: 6
   name: "Suman"
   surname: "Sourav"
