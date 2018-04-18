@@ -10,14 +10,13 @@
   social: 
     - {name: "site", link: "https://developer.microsoft.com/en-us/advocates/tanya-janca"}
 -
-
-id: 4
+  id: 4
   name: "Sven"
   surname: "Schleier"
   company: "OWASP"
   title: " OWASP Project Leader For Mobile Security"
   bio: '<p>Sven is a Senior Security Consultant with Vantage Point Security and has over 6 years of hands-on experience in web and mobile application penetration testing, network penetration testing and source code review. He has published an article on HTML5 security, several security advisories and a white paper about the HTTP Strict Transport Security Header.
-At the moment Sven is focusing on the OWASP Mobile Testing Guide (https://github.com/OWASP/owasp-mstg), by being one of the project leaders and top contributors and is the project leader of the OWASP Mobile Hacking Playground (https://github.com/OWASP/OMTG-Hacking-Playground). He is also part of the OWASP Mobile Application Security Verification Standard (https://github.com/OWASP/owasp-masvs).</p>'
+  At the moment Sven is focusing on the OWASP Mobile Testing Guide (https://github.com/OWASP/owasp-mstg), by being one of the project leaders and top contributors and is the project leader of the OWASP Mobile Hacking Playground (https://github.com/OWASP/OMTG-Hacking-Playground). He is also part of the OWASP Mobile Application Security Verification Standard (https://github.com/OWASP/owasp-masvs).</p>'
   thumbnailUrl: Sven.jpg
   rockstar: true
   social: 
