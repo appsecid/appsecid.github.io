@@ -22,9 +22,8 @@
   social: 
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
-- {name: "github", link: ""}
--
-
+    - {name: "github", link: ""}
+- 
   id: 5
   name: "Suman"
   surname: "Sourav"
@@ -39,7 +38,7 @@
     - {name: "google-plus", link: ""}
     - {name: "site", link: ""}
 
-  - 
+- 
   id: 7
   name: "Phuong "
   surname: "Nam Tran"
