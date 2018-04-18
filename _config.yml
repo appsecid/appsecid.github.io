@@ -60,7 +60,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "OWASP Appsec <typeout> 2018"
+heroTitle: "OWASP AppSec <typeout> 2018"
 eventDate: "1-3 November, 2018"
 typeoutTextValues: '"", "Cyber Security","Conference","Indonesia"'
 typeoutFallback: "Conference"
