@@ -28,7 +28,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "OWASP"
 organizerAlternateName: "OWASP Indonesia Chapter"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "ade.putra@owasp.org"
+organizerEmail: "indonesia2018@owasp.org"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http:///"
 
@@ -61,7 +61,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "OWASP AppSec <typeout> 2018"
-eventDate: "8-10 November, 2018"
+eventDate: "8-9 November, 2018"
 typeoutTextValues: '"", "Cyber Security","Conference","Indonesia"'
 typeoutFallback: "Conference"
 heroButtons:
