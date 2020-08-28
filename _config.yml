@@ -61,7 +61,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "OWASP AppSec <typeout> 2020"
-eventDate: "18-19 November, 2018"
+eventDate: "18-19 November, 2020"
 typeoutTextValues: '"", "Cyber Security","Conference","Indonesia"'
 typeoutFallback: "Conference"
 heroButtons:
@@ -69,7 +69,7 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About OWASP AppSec Indonesia Conference 2018"
+aboutTitle: "About OWASP AppSec Indonesia Conference 2020"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "One-day conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications!. All Presentation in English" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -186,7 +186,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://Appsec2018.owasp.id", text: "OWASP Appsec Conference Indonesia 2018"}
+   - {link: "http://Appsec2018.owasp.id", text: "OWASP Appsec Conference Indonesia 2020"}
    - {link: "https://OWASP.org", text: "OWASP Foundation"}
  -
   title: "Contacts"
