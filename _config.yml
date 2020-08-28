@@ -26,7 +26,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "OWASP"
-organizerAlternateName: "OWASP Indonesia Chapter"
+organizerAlternateName: "OWASP Jakarta Chapter"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "indonesia@owasp.org"
 organizerLogo: "/img/seo/organizer-logo.png"
@@ -96,7 +96,7 @@ rockstarSpeakersButtonText: "See all speakers"
 locationBlockTitle: "Location"
 eventLocationName: "Virtual"
 eventLocationLink: "https://maps.googleapis.com/maps/api/js?key=AIzaSyBIehfgdYIdwupe2Dr9yI7jkydwIgjfNWI&callback=initMap"
-eventStreetAddress: ""
+eventStreetAddress: "Conference By Virtual"
 eventAddressLocality: ""
 eventAddressLocalityRegion: "Jakarta"
 eventPostalCode: "11530"
@@ -186,7 +186,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://Appsec2018.owasp.id", text: "OWASP Appsec Conference Indonesia 2020"}
+   - {link: "http://appsec2020.owasp.or.id", text: "OWASP Appsec Conference Indonesia 2020"}
    - {link: "https://OWASP.org", text: "OWASP Foundation"}
  -
   title: "Contacts"
