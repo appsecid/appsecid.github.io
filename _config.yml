@@ -14,7 +14,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "OWASP AppSec Conference 2018"
+title: "OWASP AppSec Conference 2020"
 email: "indonesia2018@owasp.org"
 description: "OWASP Appsec is One-day Conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications"
 baseurl: ""
@@ -60,8 +60,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "OWASP AppSec <typeout> 2018"
-eventDate: "8-9 November, 2018"
+heroTitle: "OWASP AppSec <typeout> 2020"
+eventDate: "18-19 November, 2018"
 typeoutTextValues: '"", "Cyber Security","Conference","Indonesia"'
 typeoutFallback: "Conference"
 heroButtons:
