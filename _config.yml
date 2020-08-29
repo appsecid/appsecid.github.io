@@ -61,7 +61,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "OWASP AppSec <typeout> 2020"
-eventDate: "21 November, 2020"
+eventDate: "21-22 November, 2020"
 typeoutTextValues: '"", "Cyber Security","Conference","Indonesia"'
 typeoutFallback: "Conference"
 heroButtons:
