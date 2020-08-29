@@ -61,7 +61,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "OWASP AppSec <typeout> 2020"
-eventDate: "18-19 November, 2020"
+eventDate: "21 November, 2020"
 typeoutTextValues: '"", "Cyber Security","Conference","Indonesia"'
 typeoutFallback: "Conference"
 heroButtons:
@@ -169,10 +169,7 @@ ticketsOffers:
   ticketsNumber: ""
   buyButtonLink: ""
   buyButtonText: "As Soon"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: [""]
-  validFrom: "2018-07-20T10:00"
-  validThrough: "2018-07-23T23:59"
+  additionalInfo: "Requires a va no:59"
   soldOut: True
   soldOutText: "As soon"
 
