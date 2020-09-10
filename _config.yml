@@ -95,18 +95,13 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Virtual"
-eventLocationLink: ""
 eventStreetAddress: "Conference By Virtual"
 eventAddressLocality: ""
 eventAddressLocalityRegion: "Jakarta"
-eventPostalCode: ""
 eventAddressCountry: "Indonesia"
 eventStartTime: "2020-11-01T08:00"
 eventDoorTime: "09:00"
 eventEndTime: "2020-11-03T20:00"
-eventPlaceCoordinates: ""
-mapCenterCoordinates: ""
-mapMobileCenterCoordinates: ""
 
 # Venue Block
 venueBlockTitle: "Venue"
