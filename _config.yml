@@ -116,7 +116,7 @@ venueFeatures: [""]
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Follow Us @OWASPJakarta"
 twitterHashTag : "OWASPAppsecID2020 "
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -126,7 +126,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: ""
 subscribeInfo: "Registration will be open around end of June. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
