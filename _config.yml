@@ -95,7 +95,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Virtual"
-eventLocationLink: "https://maps.googleapis.com/maps/api/js?key=AIzaSyBIehfgdYIdwupe2Dr9yI7jkydwIgjfNWI&callback=initMap"
+eventLocationLink: ""
 eventStreetAddress: "Conference By Virtual"
 eventAddressLocality: ""
 eventAddressLocalityRegion: "Jakarta"
