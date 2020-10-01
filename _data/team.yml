@@ -37,6 +37,19 @@
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
     - {name: "site", link: ""}
+-
+  id: 3
+  name: "Vina"
+  surname: "Panduwinata"
+  title: "Conference Committee"
+  thumbnailUrl: owasp_logo.png
+  team: true
+  ribbon: 
+    - {abbr: "", title: ""}
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "site", link: ""}
 - 
   id: 4
   name: "Emily"
