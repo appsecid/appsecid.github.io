@@ -26,10 +26,10 @@
     - {name: "github", link: ""}
 - 
   id: 2
-  name: "Achmad"
-  surname: "Syafaat"
+  name: "Prof. Dr. Hoga"
+  surname: "Saragih, ST, MT."
   title: "Conference Committee"
-  thumbnailUrl: owasp_logo.png
+  thumbnailUrl: profhugo.jpg
   team: true
   ribbon: 
     - {abbr: "", title: ""}
