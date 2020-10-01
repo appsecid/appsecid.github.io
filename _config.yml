@@ -75,7 +75,7 @@ aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "One-day conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications!. All Presentation in English" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Capture The Flag", image: "hackathon.jpg", text: "CTF are a great opportunity to learn, so if you’ve never experienced a CTF event or even a OWASP event, I strongly encourage you to jump in and join one as soon as you can!    !" }
- - {title: "Networking", image: "hackathon.jpg", text: "Network with other security minded and passionate Developers, DevOps Engineers, Quality Assurance Testers, Security Professionals and more!!" }
+ - {title: "Networking", image: "ctf.jpg", text: "Network with other security minded and passionate Developers, DevOps Engineers, Quality Assurance Testers, Security Professionals and more!!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
