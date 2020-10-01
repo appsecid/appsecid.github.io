@@ -50,7 +50,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "Submit"}
  - {permalink: "", text: "Register"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team", text: "Team"}
+ - {permalink: "/team/", text: "Team"}
  - {permalink: "", text: ""}
  - {permalink: "/hackathon/", text: ""}
 bottomNavigationLinks:
