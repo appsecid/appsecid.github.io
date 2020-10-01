@@ -14,9 +14,9 @@
     - {name: "site", link: ""}
 - 
   id: 1
-  name: "Vina"
-  surname: "Panduwinata"
-  title: "Conference Comittee
+  name: "Ali"
+  surname: "kaharu"
+  title: "Designer and Web Developer"
   thumbnailUrl: owasp_logo.png
   team: true
   ribbon: 
@@ -28,7 +28,7 @@
   id: 2
   name: "Achmad"
   surname: "Syafaat"
-  title: "Conference Committee"
+  title: "Sponsors and Speakers Manager"
   thumbnailUrl: owasp_logo.png
   team: true
   ribbon: 
@@ -38,15 +38,33 @@
     - {name: "twitter", link: ""}
     - {name: "site", link: ""}
 - 
-  id: 3
-  name: "Prashant"
-  surname: "kv"
-  title: "CFP Reviewer"
-  thumbnailUrl: owasp_logo.png
-  team: true
-  ribbon: 
-    - {abbr: "", title: ""}
+  id: 4
+  name: "Laura"
+  surname: "Grau"
+  title: "Event Manager"
+  thumbnailUrl: Laura-Grau-150x150.png
+  subTeam: true
   social: 
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+- 
+  id: 8
+  name: "Kelly"
+  surname: "Santalucia"
+  title: "Membership and Business Liaison"
+  thumbnailUrl: staff-kelly_santalucia.png
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "site", link: ""}
+    
+  id: 8
+  name: "Dawn"
+  surname: "Aitken"
+  title: "Program Assistant"
+  thumbnailUrl: 448px-Dawn_picture.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: ""}
     - {name: "site", link: ""}
