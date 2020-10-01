@@ -38,6 +38,19 @@
     - {name: "twitter", link: ""}
     - {name: "site", link: ""}
 - 
+  id: 3
+  name: "Prashant"
+  surname: "kv"
+  title: "CFP Reviewer"
+  thumbnailUrl: owasp_logo.png
+  team: true
+  ribbon: 
+    - {abbr: "", title: ""}
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "site", link: ""}
+- 
   id: 4
   name: "Emily"
   surname: "Berman"
@@ -49,7 +62,7 @@
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
 - 
-  id: 8
+  id: 5
   name: "Kelly"
   surname: "Santalucia"
   title: "Director of Corporate Support"
@@ -59,7 +72,7 @@
     - {name: "google-plus", link: ""}
     - {name: "site", link: ""}
     
-  id: 8
+  id: 6
   name: "Dawn"
   surname: "Aitken"
   title: "Operations Manager"
