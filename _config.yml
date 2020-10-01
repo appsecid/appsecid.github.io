@@ -41,7 +41,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: ""
-c4sponsorsUrl: "/assets/"
+c4sponsorsUrl: ""
 
 
 # Navigation
@@ -187,7 +187,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "", text: "Code of Conduct"}
+   - {permalink: "https://owasp.org/www-policy/operational/code-of-conduct", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
