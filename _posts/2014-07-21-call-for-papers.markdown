@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Papers" 
-date:   2018-05-01 09:00:00
+date:   2020-09-01 09:00:00
 isStaticPost: false
 ---
 CALL FOR PAPER is open. Please Submit Your [Proposal in here](https://s.id/owaspid-cfp-2020)<br>
