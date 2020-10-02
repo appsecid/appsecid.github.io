@@ -1,6 +1,6 @@
 - 
   id: 3
-  name: "Phuong "
+  name: "Phuong"
   surname: "Nam Tran"
   company: "Security Consultant"
   title: ""
@@ -10,6 +10,21 @@
 •	More than 8 years training about information security for universities, government departments and large enterprises across the country (Government Cipher Committee, Department of Information Security, North  Power Corporation,… ). 
 •	Conduct research about some open sources projects in information security such as: auto malware analysis system, honey pot system, network monitoring system."
   thumbnailUrl: phuong.jpg
+  rockstar: no
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "site", link: ""}
+- 
+  id: 4
+  name: "Ade"
+  surname: "Yoseman"
+  company: "PT Netkrida Tuah Cakrawala"
+  title: "CTO"
+  bio: 
+•	CTO @ PT Netkrida Tuah Cakrawala
+  thumbnailUrl: adeyoseman.jpg
   rockstar: no
   ribbon:
     - {abbr: "", title: "", url: ""}
