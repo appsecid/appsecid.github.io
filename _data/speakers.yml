@@ -2,8 +2,8 @@
   id: 3
   name: "Phuong"
   surname: "Nam Tran"
-  company: "Security Consultant"
-  title: "OWASP Danang Chapter Leader"
+  company: "Vietname"
+  title: "Security Consultant"
   bio: "9 years working as a security professional of Viet Nam computer emergency response team - Ministry of Information and Communications.
 •	9 years experience of penetration testing for Viet Nam government systems.
 •	9 years of Incident handling: support for government agencies and large enterprises in Viet Nam to handle issues of information security.
@@ -20,7 +20,7 @@
   id: 4
   name: "Ade"
   surname: "Yoseman"
-  company: "PT Netkrida Tuah Cakrawala"
+  company: "Indonesia"
   title: "CTO"
   bio: "CTO - PT Netkrida Tuah Cakrawala"
   thumbnailUrl: adeyoseman.jpg
