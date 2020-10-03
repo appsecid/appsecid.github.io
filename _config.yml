@@ -33,8 +33,8 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http:///"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, AppSec Indonesia, OWASP, programming, android, chrome, developers"
+twitterAccount: "@OWASPJakarta"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
